@@ -39,5 +39,4 @@ public class Process {
 		this.isProcessDown = downflag;
 	}
 
-
 }
